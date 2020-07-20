@@ -1,0 +1,12 @@
+
+# 代码格式这个只有在cil2才有资格是从cil2复制过来的
+
+root = true
+
+[*]
+charset = utf-8
+indent_style = space
+indent_size = 2
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
