@@ -25,5 +25,9 @@
 
      注意要接口一定要找老师因为这个是老师的接口，通过微信号联系💥💥
 
-
-
+# 项目预览
+![Image ](https://github.com/Alicessa/PPreview/blob/master/Mall/malla.png)
+![Image ](https://github.com/Alicessa/PPreview/blob/master/Mall/mallb.png)
+![Image ](https://github.com/Alicessa/PPreview/blob/master/Mall/mallc.png)
+![Image ](https://github.com/Alicessa/PPreview/blob/master/Mall/malld.png)
+![Image ](https://github.com/Alicessa/PPreview/blob/master/Mall/malle.png)
